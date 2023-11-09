@@ -2,7 +2,7 @@
 
 
 int main(void) {
-    foo(2023);
+    foo(2022);
     goo(2024);
     too();
 
