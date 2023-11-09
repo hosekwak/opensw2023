@@ -2,9 +2,11 @@
 
 
 int main(void) {
-    foo(int m);
+    foo();
     goo();
     too();
+
+    printf("this is the end!\n");
 
     return 0;
 }
