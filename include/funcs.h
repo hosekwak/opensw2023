@@ -5,4 +5,4 @@
 
 void foo();
 void goo();
-
+void too();
