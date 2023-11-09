@@ -2,7 +2,7 @@
 
 
 int main(void) {
-    foo();
+    foo(int m);
     goo();
     too();
 
