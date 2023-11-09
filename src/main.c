@@ -2,8 +2,8 @@
 
 
 int main(void) {
-    foo();
-    goo();
+    foo(2023);
+    goo(2024);
     too();
 
     printf("this is the end!\n");
